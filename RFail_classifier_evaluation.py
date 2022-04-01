@@ -19,7 +19,7 @@ from imblearn.pipeline import make_pipeline
 
 import os
 
-output_folder = "test"
+output_folder = "test/"
 fullband = True
 
 data_folder = "E:/datasets/ESA/data-3/"
