@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # dumped model files - too big
-*.joblib
+H2O_model.joblib
+mixed_model.joblib
