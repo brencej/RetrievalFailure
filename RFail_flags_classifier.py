@@ -14,7 +14,7 @@ from sklearn.metrics import roc_curve, classification_report, roc_auc_score
 
 
 fullband = True
-data_folder = "E:/datasets/ESA/data-3/"
+data_folder = "data/"
 output_folder = "results/flag_classification/"
 
 folders = ["Global_Survey-2020-01-15", "Global_Survey-2020-03-15", "Global_Survey-2020-06-15", 

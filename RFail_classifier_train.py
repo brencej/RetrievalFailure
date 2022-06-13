@@ -16,7 +16,7 @@ fullband = True
 
 data_folder = "E:/datasets/ESA/data-3/"
 
-n_components = [20]*3
+n_components = [20, 20, 20]
 
 folders = ["Global_Survey-2020-01-15", "Global_Survey-2020-03-15", "Global_Survey-2020-06-15", 
            "Global_Survey-2020-09-15", "Global_Survey-2020-12-15"]
